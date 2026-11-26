@@ -1,0 +1,9 @@
+﻿  ATM_project.cpp
+C:\moheeb\zero_to_hero_series\course8\ATM_project\atm_system-project\ATM_project\myStringLib.h(24,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ATM_project.cpp')
+  
+C:\moheeb\zero_to_hero_series\course8\ATM_project\atm_system-project\ATM_project\myStringLib.h(31,18): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ATM_project.cpp')
+  
+C:\moheeb\zero_to_hero_series\course8\ATM_project\atm_system-project\ATM_project\ATM_project.cpp(158,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ATM_project.vcxproj -> C:\moheeb\zero_to_hero_series\course8\ATM_project\atm_system-project\x64\Debug\ATM_project.exe
